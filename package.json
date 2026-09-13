@@ -1,0 +1,9 @@
+{
+  "name": "primera-mano-mercadopago",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Funciones serverless (Vercel) para Checkout Pro de Mercado Pago del catálogo Primera Mano",
+  "dependencies": {
+    "mercadopago": "^2.0.15"
+  }
+}
