@@ -4,6 +4,7 @@
   "private": true,
   "description": "Funciones serverless (Vercel) para Checkout Pro de Mercado Pago del catálogo Primera Mano",
   "dependencies": {
-    "mercadopago": "^2.0.15"
+    "mercadopago": "^2.0.15",
+    "jsonwebtoken": "^9.0.2"
   }
 }
